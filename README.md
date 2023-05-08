@@ -4,9 +4,6 @@ The tremendous recent advances in generative artificial intelligence techniques 
 Motvated to tackle such challenges with negative impact and better embrace the positive impact generative AI can have, we have launched GenAI4Good, a global open source initiative for accelerating machine learning for promoting responsible creation and deployment of generative AI for good.  The sub-initiatives that are part of GenAI4Good will be listed and updated in this portal over time as the effort grows.
 
 ### Sub-initiatives
-- <img src="covidnetlogo.png" alt="COVID-Net" width="4%" height="4%"> **COVID-Net UI: AI-Powered Clinical Decision Support Platform for COVID-19**: 
-	- Repo: [Click here](https://github.com/darwinai/covidnet_ui)
-  <br>
 - <img src="https://github.com/h-aboutalebi/DeepfakeArt/raw/main/images/logo.jpg" alt="DeepfakeArt" width="4%" height="4%"> **DeepfakeArt Challenge Benchmark Dataset for Generative AI Art Forgery and Data Poisoning Detection** 
   - Repo: [Click here](https://github.com/h-aboutalebi/DeepfakeArt)
   - Benchmark dataset:  [Click here](https://www.kaggle.com/datasets/danielmao2019/deepfakeart)
