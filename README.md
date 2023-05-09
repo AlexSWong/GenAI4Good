@@ -14,7 +14,7 @@ Benchmark dataset:  [Click here](https://www.kaggle.com/datasets/danielmao2019/d
 **NutritionVerse-3D: A 3D Food Model Dataset for Nutritional Intake Estimation** <br>
 Paper: [Click here](https://arxiv.org/abs/2304.05619)<br>
 Benchmark dataset:  [Click here](https://www.kaggle.com/datasets/amytai/nutritionverse-3d)<br>
-<img src="dataset-cover.png" alt="Nutritionverse3d" width="90%" height="90%">
+<img src="dataset-cover.png" alt="Nutritionverse3d" width="70%" height="70%">
 <br>
 
 ## Core GenAI4Good Team
