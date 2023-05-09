@@ -19,7 +19,7 @@ Benchmark dataset:  [Click here](https://www.kaggle.com/datasets/amytai/nutritio
 
 ## ProstateGAN: Mitigating Data Bias via Prostate Diffusion Imaging Synthesis with Generative Adversarial Networks <br>
 Paper: [Click here](https://arxiv.org/abs/1811.05817)<br>
-<img src="https://raw.githubusercontent.com/AlexSWong/GenAI4Good/main/prostategan.jpg" alt="Nutritionverse3d" width="100%" height="100%">
+<img src="https://raw.githubusercontent.com/AlexSWong/GenAI4Good/main/prostategan.jpg" alt="Nutritionverse3d" width="60%" height="60%">
 <br>
 
 ## Core GenAI4Good Team
