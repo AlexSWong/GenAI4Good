@@ -5,9 +5,10 @@ The tremendous recent advances in generative artificial intelligence techniques 
 Motvated to tackle such challenges with negative impact and better embrace the positive impact generative AI can have, we have launched GenAI4Good, a global open source initiative for accelerating machine learning for promoting responsible creation and deployment of generative AI for good.  The sub-initiatives that are part of GenAI4Good will be listed and updated in this portal over time as the effort grows.
 
 ### Sub-initiatives
-- <img src="https://github.com/h-aboutalebi/DeepfakeArt/raw/main/images/logo.jpg" alt="DeepfakeArt" width="4%" height="4%"> **DeepfakeArt Challenge Benchmark Dataset for Generative AI Art Forgery and Data Poisoning Detection** 
+-  **DeepfakeArt Challenge Benchmark Dataset for Generative AI Art Forgery and Data Poisoning Detection** 
   - Repo: [Click here](https://github.com/h-aboutalebi/DeepfakeArt)
   - Benchmark dataset:  [Click here](https://www.kaggle.com/datasets/danielmao2019/deepfakeart)
+  - <img src="https://github.com/h-aboutalebi/DeepfakeArt/raw/main/images/all.jpg" alt="DeepfakeArt" width="30%" height="30%">
   <br>
 - <img src="https://storage.googleapis.com/kaggle-datasets-images/3104861/5347560/d1c61a300ea38043464b13c580caba35/dataset-cover.png" alt="Nutritionverse" width="4%" height="4%"> **NutritionVerse-3D: A 3D Food Model Dataset for Nutritional Intake Estimation** 
   - Paper: [Click here](https://arxiv.org/abs/2304.05619)
