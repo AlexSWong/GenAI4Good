@@ -43,7 +43,9 @@ Project Lead: [Alexander Wong](http://www.eng.uwaterloo.ca/~a28wong) (a28wong@uw
 * Krish Parmar
 
 **Partners:**
-- Vision and Image Processing Research Group, University of Waterloo
 <figure class="image">
 <img src="https://raw.githubusercontent.com/h-aboutalebi/DeepfakeArt/main/images/viplogo-1.png">
+</figure>
+<figure class="image">
+<img src="https://raw.githubusercontent.com/AlexSWong/GenAI4Good/main/waterlooai.png">
 </figure>
