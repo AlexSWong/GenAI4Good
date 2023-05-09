@@ -10,7 +10,7 @@ Motvated to tackle such challenges with negative impact and better embrace the p
   - Benchmark dataset:  [Click here](https://www.kaggle.com/datasets/danielmao2019/deepfakeart)
   - <img src="https://github.com/h-aboutalebi/DeepfakeArt/raw/main/images/all.jpg" alt="DeepfakeArt" width="30%" height="30%">
   <br>
-- **NutritionVerse-3D: A 3D Food Model Dataset for Nutritional Intake Estimation** 
+-**NutritionVerse-3D: A 3D Food Model Dataset for Nutritional Intake Estimation** 
   - Paper: [Click here](https://arxiv.org/abs/2304.05619)
   - Benchmark dataset:  [Click here](https://www.kaggle.com/datasets/amytai/nutritionverse-3d)
   - <img src="https://github.com/h-aboutalebi/DeepfakeArt/raw/main/images/all.jpg" alt="DeepfakeArt" width="30%" height="30%">
