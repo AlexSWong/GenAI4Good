@@ -14,7 +14,7 @@ Benchmark dataset:  [Click here](https://www.kaggle.com/datasets/danielmao2019/d
 **NutritionVerse-3D: A 3D Food Model Dataset for Nutritional Intake Estimation** 
 Paper: [Click here](https://arxiv.org/abs/2304.05619)
 Benchmark dataset:  [Click here](https://www.kaggle.com/datasets/amytai/nutritionverse-3d)
-<img src="https://github.com/h-aboutalebi/DeepfakeArt/raw/main/images/all.jpg" alt="DeepfakeArt" width="30%" height="30%">
+<img src="dataset-cover.png" alt="Nutritionverse3d" width="30%" height="30%">
 <br>
 
 ## Core GenAI4Good Team
@@ -23,3 +23,15 @@ Project Lead: [Alexander Wong](http://www.eng.uwaterloo.ca/~a28wong) (a28wong@uw
 * Hossein Aboutalebi
 * Dayou Mao
 * Carol Xu
+* Amy Tai
+* Saeejith Nair
+* Yuhao Chen
+* Matthew Keller
+* Mattie Kerrigan
+* Tanisha Nigam
+* Komal Vachhani
+* Jason Li
+* Sriram Kumar
+* Cosmo Zhao
+* Pengcheng Xi
+* Krish Parmar
