@@ -35,3 +35,9 @@ Project Lead: [Alexander Wong](http://www.eng.uwaterloo.ca/~a28wong) (a28wong@uw
 * Cosmo Zhao
 * Pengcheng Xi
 * Krish Parmar
+
+**Partners:**
+- Vision and Image Processing Research Group, University of Waterloo
+<figure class="image">
+<img src="https://github.com/h-aboutalebi/DeepfakeArt/blob/main/images/viplogo-1.png">
+</figure>
