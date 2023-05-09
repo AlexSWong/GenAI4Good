@@ -44,5 +44,5 @@ Project Lead: [Alexander Wong](http://www.eng.uwaterloo.ca/~a28wong) (a28wong@uw
 **Partners:**
 - Vision and Image Processing Research Group, University of Waterloo
 <figure class="image">
-<img src="https://github.com/h-aboutalebi/DeepfakeArt/blob/main/images/viplogo-1.png">
+<img src="https://raw.githubusercontent.com/h-aboutalebi/DeepfakeArt/main/images/viplogo-1.png">
 </figure>
