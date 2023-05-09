@@ -9,7 +9,7 @@ Motvated to tackle such challenges with negative impact and better embrace the p
   - Repo: [Click here](https://github.com/h-aboutalebi/DeepfakeArt)
   - Benchmark dataset:  [Click here](https://www.kaggle.com/datasets/danielmao2019/deepfakeart)
   <br>
-- <img src="https://storage.googleapis.com/kaggle-datasets-images/3104861/5347560/d1c61a300ea38043464b13c580caba35/dataset-cover.png" alt="DeepfakeArt" width="4%" height="4%"> **NutritionVerse-3D: A 3D Food Model Dataset for Nutritional Intake Estimation** 
+- <img src="https://storage.googleapis.com/kaggle-datasets-images/3104861/5347560/d1c61a300ea38043464b13c580caba35/dataset-cover.png" alt="Nutritionverse" width="4%" height="4%"> **NutritionVerse-3D: A 3D Food Model Dataset for Nutritional Intake Estimation** 
   - Paper: [Click here](https://arxiv.org/abs/2304.05619)
   - Benchmark dataset:  [Click here](https://www.kaggle.com/datasets/amytai/nutritionverse-3d)
   <br>
