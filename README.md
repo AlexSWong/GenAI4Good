@@ -8,13 +8,13 @@ Motvated to tackle such challenges with negative impact and better embrace the p
 ## DeepfakeArt Challenge Benchmark Dataset for Generative AI Art Forgery and Data Poisoning Detection <br><br>
 Repo: [Click here](https://github.com/h-aboutalebi/DeepfakeArt)<br><br>
 Benchmark dataset:  [Click here](https://www.kaggle.com/datasets/danielmao2019/deepfakeart)<br><br>
-<img src="https://github.com/h-aboutalebi/DeepfakeArt/raw/main/images/all.jpg" alt="DeepfakeArt" width="70%" height="70%">
+<img src="https://github.com/h-aboutalebi/DeepfakeArt/raw/main/images/all.jpg" alt="DeepfakeArt" width="100%" height="100%">
 <br><br>
   
 ## NutritionVerse-3D: A 3D Food Model Dataset for Nutritional Intake Estimation <br><br>
 Paper: [Click here](https://arxiv.org/abs/2304.05619)<br><br>
 Benchmark dataset:  [Click here](https://www.kaggle.com/datasets/amytai/nutritionverse-3d)<br><br>
-<img src="dataset-cover.png" alt="Nutritionverse3d" width="70%" height="70%">
+<img src="nutritionverse3d_4.JPG" alt="Nutritionverse3d" width="100%" height="1-0%">
 <br>
 
 ## Core GenAI4Good Team
