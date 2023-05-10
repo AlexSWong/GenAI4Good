@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/AlexSWong/GenAI4Good/main/genai.jpg" alt="genai4good" width="60%" height="60%">
+<center><img src="https://raw.githubusercontent.com/AlexSWong/GenAI4Good/main/genai.jpg" alt="genai4good" width="60%" height="60%"></center>
 
 # GenAI4Good Open Initative
 The tremendous recent advances in generative artificial intelligence techniques have led to significant successes and promise in a wide range of different applications ranging from conversational agents and textual content generation to voice and visual synthesis. Amid the rise in generative AI and its increasing widespread adoption, there has been significant growing concern over the use of generative AI for malicious purposes ranging from disinformation creation to content forgery to cyberattack generation. However, despite the potential for negative socioeconomic impact, generative AI holds tremendous promise in improving the human condition a larger number of ways if created and deployed in a reponsible and trustworthy manner.
