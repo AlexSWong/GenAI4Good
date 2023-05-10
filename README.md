@@ -49,3 +49,6 @@ Project Lead: [Alexander Wong](http://www.eng.uwaterloo.ca/~a28wong) (a28wong@uw
 <figure class="image">
 <img src="https://raw.githubusercontent.com/AlexSWong/GenAI4Good/main/waterlooai.png">
 </figure>
+<figure class="image">
+<img src="https://raw.githubusercontent.com/AlexSWong/GenAI4Good/main/darwinailogo.png">
+</figure>
