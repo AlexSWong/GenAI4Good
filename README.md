@@ -8,13 +8,13 @@ Motivated to tackle such challenges and pave the way for positive impact, we hav
 ## DeepfakeArt Challenge Benchmark Dataset for Generative AI Art Forgery and Data Poisoning Detection <br>
 Repo: [Click here](https://github.com/h-aboutalebi/DeepfakeArt)<br>
 Benchmark dataset:  [Click here](https://www.kaggle.com/datasets/danielmao2019/deepfakeart)<br><br>
-<img src="https://github.com/h-aboutalebi/DeepfakeArt/raw/main/images/all.jpg" alt="DeepfakeArt" width="60%" height="60%">
+<img src="https://github.com/h-aboutalebi/DeepfakeArt/raw/main/images/all.jpg" alt="DeepfakeArt" width="70%" height="70%">
 <br><br>
   
 ## NutritionVerse-3D: A 3D Food Model Dataset for Nutritional Intake Estimation <br>
 Paper: [Click here](https://arxiv.org/abs/2304.05619)<br>
 Benchmark dataset:  [Click here](https://www.kaggle.com/datasets/amytai/nutritionverse-3d)<br><br>
-<img src="https://raw.githubusercontent.com/AlexSWong/GenAI4Good/main/nutritionversedata.jpg" alt="Nutritionverse3d" width="60%" height="60%">
+<img src="https://raw.githubusercontent.com/AlexSWong/GenAI4Good/main/nutritionversedata.jpg" alt="Nutritionverse3d" width="70%" height="70%">
 <br>
 
 ## ProstateGAN: Mitigating Data Bias via Prostate Diffusion Imaging Synthesis with Generative Adversarial Networks <br>
