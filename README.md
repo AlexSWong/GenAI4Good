@@ -41,6 +41,8 @@ Project Lead: [Alexander Wong](http://www.eng.uwaterloo.ca/~a28wong) (a28wong@uw
 * Pengcheng Xi
 * Ashkay Ebadi
 * Krish Parmar
+* Sirisha Rambhatla
+* Helen Chen
 
 **Partners:**
 <figure class="image">
