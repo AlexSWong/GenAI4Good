@@ -3,7 +3,7 @@
 # GenAI4Good Open Initative
 The tremendous recent advances in generative artificial intelligence techniques have led to significant successes and promise in a wide range of different applications ranging from conversational agents and textual content generation to voice and visual synthesis. Amid the rise in generative AI and its increasing widespread adoption, there has been significant growing concern over the use of generative AI for malicious purposes ranging from disinformation creation to content forgery to cyberattack generation. However, despite the potential for negative socioeconomic impact, generative AI holds tremendous promise in improving the human condition in a large number of ways if created and deployed in a reponsible and trustworthy manner.
 
-Motvated to tackle such challenges with negative impact and better embrace the positive impact generative AI can have, we have launched GenAI4Good, a global open source initiative for accelerating machine learning for promoting responsible creation and deployment of generative AI for good.  The sub-initiatives that are part of GenAI4Good will be listed and updated in this portal over time as the effort grows.
+Motivated to tackle such challenges and pave the way for positive impact, we have launched GenAI4Good, a global open source initiative for accelerating machine learning for promoting responsible creation and deployment of generative AI for good.  The sub-initiatives that are part of GenAI4Good will be listed and updated in this portal over time as the effort grows.
 
 ## DeepfakeArt Challenge Benchmark Dataset for Generative AI Art Forgery and Data Poisoning Detection <br>
 Repo: [Click here](https://github.com/h-aboutalebi/DeepfakeArt)<br>
