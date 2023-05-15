@@ -38,6 +38,7 @@ Project Lead: [Alexander Wong](http://www.eng.uwaterloo.ca/~a28wong) (a28wong@uw
 * Jason Li
 * Sriram Kumar
 * Cosmo Zhao
+* Linlin Xu
 * Pengcheng Xi
 * Ashkay Ebadi
 * Krish Parmar
