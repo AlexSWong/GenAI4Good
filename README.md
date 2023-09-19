@@ -11,7 +11,7 @@ Benchmark dataset:  [Click here](https://www.kaggle.com/datasets/danielmao2019/d
 <img src="https://github.com/h-aboutalebi/DeepfakeArt/raw/main/images/all.jpg" alt="DeepfakeArt" width="70%" height="70%">
 <br><br>
 
-  ## NutritionVerse:  Large-scale Dataset of Real and Synthetic Data for Nutritional Intake Estimation <br>
+  ## NutritionVerse:  Large-scale Dataset of Real and Synthetic Meal Data for Nutritional Intake Estimation <br>
 Paper: [Click here](https://arxiv.org/abs/2309.07704)<br>
 Benchmark dataset:  [Click here](https://www.kaggle.com/nutritionverse/datasets)<br><br>
 <img src="https://raw.githubusercontent.com/AlexSWong/GenAI4Good/main/nutritionversedata.jpg" alt="Nutritionverse3d" width="70%" height="70%">
