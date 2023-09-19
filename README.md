@@ -20,7 +20,7 @@ Benchmark dataset:  [Click here](https://www.kaggle.com/nutritionverse/datasets)
 ## NutritionVerse-3D: A 3D Food Model Dataset for Nutritional Intake Estimation <br>
 Paper: [Click here](https://arxiv.org/abs/2304.05619)<br>
 Benchmark dataset:  [Click here](https://www.kaggle.com/datasets/amytai/nutritionverse-3d)<br><br>
-<img src="https://raw.githubusercontent.com/AlexSWong/GenAI4Good/main/nutritionversedata.jpg" alt="Nutritionverse3d" width="70%" height="70%">
+<img src="https://raw.githubusercontent.com/AlexSWong/GenAI4Good/main/nutritionverse3dA.JPG" alt="Nutritionverse3d" width="70%" height="70%">
 <br>
 
 ## ProstateGAN: Mitigating Data Bias via Prostate Diffusion Imaging Synthesis with Generative Adversarial Networks <br>
