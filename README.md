@@ -26,7 +26,7 @@ Benchmark dataset:  [Click here](https://www.kaggle.com/datasets/amytai/nutritio
 ## MetaGraspNet: A Large-Scale Benchmark Dataset for Scene-Aware Ambidextrous Bin Picking via Physics-based Metaverse Synthesis <br>
 Paper: [Click here](https://arxiv.org/pdf/2208.03963.pdf)<br>
 Benchmark dataset:  [Click here](https://github.com/maximiliangilles/MetaGraspNet)<br><br>
-<img src="https://raw.githubusercontent.com/AlexSWong/GenAI4Good/main/nutritionverse3dA.JPG" alt="Nutritionverse3d" width="70%" height="70%">
+<img src="https://raw.githubusercontent.com/AlexSWong/GenAI4Good/main/metagraspnet2.png" alt="Nutritionverse3d" width="70%" height="70%">
 <br>
 
 ## ProstateGAN: Mitigating Data Bias via Prostate Diffusion Imaging Synthesis with Generative Adversarial Networks <br>
