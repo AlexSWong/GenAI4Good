@@ -5,11 +5,23 @@ The tremendous recent advances in generative artificial intelligence techniques 
 
 Motivated to tackle such challenges and pave the way for positive impact, we have launched GenAI4Good, a global open source initiative for accelerating machine learning for promoting responsible creation and deployment of generative AI for good.  The sub-initiatives that are part of GenAI4Good will be listed and updated in this portal over time as the effort grows.  GenAI4Good is a joint initiative with the [COVID-Net initiative](https://alexswong.github.io/COVID-Net/) and the [Cancer-Net initiative](https://alexswong.github.io/Cancer-Net/).
 
+## NAS-NeRF: Generative Neural Architecture Search for Neural Radiance Field <br>
+Repo: [Click here](https://saeejithnair.github.io/NAS-NeRF/)<br>
+Paper:  [Click here](https://arxiv.org/pdf/2309.14293.pdf)<br><br>
+<img src="https://github.com/h-aboutalebi/DeepfakeArt/raw/main/images/nasnerf-li.jpg" alt="DeepfakeArt" width="70%" height="70%">
+<br><br>
+
 ## DeepfakeArt Challenge Benchmark Dataset for Generative AI Art Forgery and Data Poisoning Detection <br>
 Repo: [Click here](https://github.com/h-aboutalebi/DeepfakeArt)<br>
 Benchmark dataset:  [Click here](https://www.kaggle.com/datasets/danielmao2019/deepfakeart)<br><br>
 <img src="https://github.com/h-aboutalebi/DeepfakeArt/raw/main/images/all.jpg" alt="DeepfakeArt" width="70%" height="70%">
 <br><br>
+
+## MetaGraspNet: A Large-Scale Benchmark Dataset for Scene-Aware Ambidextrous Bin Picking via Physics-based Metaverse Synthesis <br>
+Paper: [Click here](https://arxiv.org/pdf/2208.03963.pdf)<br>
+Benchmark dataset:  [Click here](https://github.com/maximiliangilles/MetaGraspNet)<br><br>
+<img src="https://raw.githubusercontent.com/AlexSWong/GenAI4Good/main/metagraspnet2.png" alt="Nutritionverse3d" width="70%" height="70%">
+<br>
 
   ## NutritionVerse:  Large-scale Dataset of Real and Synthetic Meal Data for Nutritional Intake Estimation <br>
 Paper: [Click here](https://arxiv.org/abs/2309.07704)<br>
@@ -21,12 +33,6 @@ Benchmark dataset:  [Click here](https://www.kaggle.com/nutritionverse/datasets)
 Paper: [Click here](https://arxiv.org/abs/2304.05619)<br>
 Benchmark dataset:  [Click here](https://www.kaggle.com/datasets/amytai/nutritionverse-3d)<br><br>
 <img src="https://raw.githubusercontent.com/AlexSWong/GenAI4Good/main/nutritionverse3dA.JPG" alt="Nutritionverse3d" width="70%" height="70%">
-<br>
-
-## MetaGraspNet: A Large-Scale Benchmark Dataset for Scene-Aware Ambidextrous Bin Picking via Physics-based Metaverse Synthesis <br>
-Paper: [Click here](https://arxiv.org/pdf/2208.03963.pdf)<br>
-Benchmark dataset:  [Click here](https://github.com/maximiliangilles/MetaGraspNet)<br><br>
-<img src="https://raw.githubusercontent.com/AlexSWong/GenAI4Good/main/metagraspnet2.png" alt="Nutritionverse3d" width="70%" height="70%">
 <br>
 
 ## ProstateGAN: Mitigating Data Bias via Prostate Diffusion Imaging Synthesis with Generative Adversarial Networks <br>
