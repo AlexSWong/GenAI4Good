@@ -8,7 +8,7 @@ Motivated to tackle such challenges and pave the way for positive impact, we hav
 ## NAS-NeRF: Generative Neural Architecture Search for Neural Radiance Field <br>
 Repo: [Click here](https://saeejithnair.github.io/NAS-NeRF/)<br>
 Paper:  [Click here](https://arxiv.org/pdf/2309.14293.pdf)<br><br>
-<img src="https://github.com/h-aboutalebi/DeepfakeArt/raw/main/images/nasnerf-li.JPG" alt="NAS-NeRF" width="70%" height="70%">
+<img src="https://raw.githubusercontent.com/AlexSWong/GenAI4Good/main/nasnerf-li.JPG" alt="NAS-NeRF" width="70%" height="70%">
 <br><br>
 
 ## DeepfakeArt Challenge Benchmark Dataset for Generative AI Art Forgery and Data Poisoning Detection <br>
