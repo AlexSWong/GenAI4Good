@@ -17,13 +17,19 @@ Benchmark dataset:  [Click here](https://www.kaggle.com/datasets/danielmao2019/d
 <img src="https://github.com/h-aboutalebi/DeepfakeArt/raw/main/images/all.jpg" alt="DeepfakeArt" width="70%" height="70%">
 <br><br>
 
+## MetaGraspNetV2: All-in-One Dataset Enabling Fast and Reliable Robotic Bin Picking via Object Relationship Reasoning and Dexterous Grasping <br>
+Paper: [Click here](https://ieeexplore.ieee.org/document/10309974)<br>
+Benchmark dataset:  [Click here](https://github.com/maximiliangilles/MetaGraspNet)<br><br>
+<img src="https://raw.githubusercontent.com/AlexSWong/GenAI4Good/main/metagraspnet2.png" alt="Nutritionverse3d" width="70%" height="70%">
+<br>
+
 ## MetaGraspNet: A Large-Scale Benchmark Dataset for Scene-Aware Ambidextrous Bin Picking via Physics-based Metaverse Synthesis <br>
 Paper: [Click here](https://arxiv.org/pdf/2208.03963.pdf)<br>
 Benchmark dataset:  [Click here](https://github.com/maximiliangilles/MetaGraspNet)<br><br>
 <img src="https://raw.githubusercontent.com/AlexSWong/GenAI4Good/main/metagraspnet2.png" alt="Nutritionverse3d" width="70%" height="70%">
 <br>
 
-  ## NutritionVerse:  Large-scale Dataset of Real and Synthetic Meal Data for Nutritional Intake Estimation <br>
+## NutritionVerse:  Large-scale Dataset of Real and Synthetic Meal Data for Nutritional Intake Estimation <br>
 Paper: [Click here](https://arxiv.org/abs/2309.07704)<br>
 Benchmark dataset:  [Click here](https://www.kaggle.com/nutritionverse/datasets)<br><br>
 <img src="https://raw.githubusercontent.com/AlexSWong/GenAI4Good/main/nutritionversedata.jpg" alt="Nutritionverse3d" width="70%" height="70%">
