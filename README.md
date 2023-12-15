@@ -45,7 +45,7 @@ Benchmark dataset:  [Click here](https://www.kaggle.com/datasets/amytai/nutritio
 ## FoodFusion: A Latent Diffusion Model for Realistic Food Image Generation <br>
 Paper: [Click here](https://arxiv.org/abs/2312.03540)<br>
 Benchmark dataset:  [Click here](https://www.kaggle.com/datasets/amytai/nutritionverse-3d)<br><br>
-<img src="https://raw.githubusercontent.com/AlexSWong/GenAI4Good/main/foodfusion.JPG" alt="Nutritionverse3d" width="70%" height="70%">
+<img src="https://raw.githubusercontent.com/AlexSWong/GenAI4Good/main/foodfusion.JPG" alt="Foodfusion" width="70%" height="70%">
 <br>
 
 ## ProstateGAN: Mitigating Data Bias via Prostate Diffusion Imaging Synthesis with Generative Adversarial Networks <br>
