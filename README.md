@@ -44,7 +44,6 @@ Benchmark dataset:  [Click here](https://www.kaggle.com/datasets/amytai/nutritio
 
 ## FoodFusion: A Latent Diffusion Model for Realistic Food Image Generation <br>
 Paper: [Click here](https://arxiv.org/abs/2312.03540)<br>
-Benchmark dataset:  [Click here](https://www.kaggle.com/datasets/amytai/nutritionverse-3d)<br><br>
 <img src="https://raw.githubusercontent.com/AlexSWong/GenAI4Good/main/foodfusion.jpg" alt="Foodfusion" width="70%" height="70%">
 <br>
 
