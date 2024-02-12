@@ -1,6 +1,6 @@
 <p align="center"><img src="https://raw.githubusercontent.com/AlexSWong/GenAI4Good/main/genai.jpg" alt="genai4good" width="60%" height="60%"></p>
 
-# GenAI4Good Open Initative
+# GenAI4Good Open Initiative
 The tremendous recent advances in generative artificial intelligence techniques have led to significant successes and promise in a wide range of different applications ranging from conversational agents and textual content generation to voice and visual synthesis. Amid the rise in generative AI and its increasing widespread adoption, there has been significant growing concern over the use of generative AI for malicious purposes ranging from disinformation creation to content forgery to cyberattack generation. However, despite the potential for negative socioeconomic impact, generative AI holds tremendous promise in improving the human condition in a large number of ways if created and deployed in a reponsible and trustworthy manner.
 
 Motivated to tackle such challenges and pave the way for positive impact, we have launched GenAI4Good, a global open source initiative for accelerating machine learning for promoting responsible creation and deployment of generative AI for good.  The sub-initiatives that are part of GenAI4Good will be listed and updated in this portal over time as the effort grows.  GenAI4Good is a joint initiative with the [COVID-Net initiative](https://alexswong.github.io/COVID-Net/) and the [Cancer-Net initiative](https://alexswong.github.io/Cancer-Net/).
