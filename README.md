@@ -5,6 +5,11 @@ The tremendous recent advances in generative artificial intelligence techniques 
 
 Motivated to tackle such challenges and pave the way for positive impact, we have launched GenAI4Good, a global open source initiative for accelerating machine learning for promoting responsible creation and deployment of generative AI for good.  The sub-initiatives that are part of GenAI4Good will be listed and updated in this portal over time as the effort grows.  GenAI4Good is a joint initiative with the [COVID-Net initiative](https://alexswong.github.io/COVID-Net/) and the [Cancer-Net initiative](https://alexswong.github.io/Cancer-Net/).
 
+## AI Illuminated: Generative AI Podcast on the Latest Research Developments <br>
+Podcast: [Click here](https://open.spotify.com/show/5MWM1LvsSGHqagmtp9bdGO?si=4f0725a8de244bd1&nd=1&dlsi=dd8dffcab94b4cda)<br>
+<img src="https://raw.githubusercontent.com/AlexSWong/GenAI4Good/main/nasnerf-li.JPG" alt="NAS-NeRF" width="70%" height="70%">
+<br><br>
+
 ## NAS-NeRF: Generative Neural Architecture Search for Neural Radiance Field <br>
 Repo: [Click here](https://saeejithnair.github.io/NAS-NeRF/)<br>
 Paper:  [Click here](https://arxiv.org/pdf/2309.14293.pdf)<br><br>
