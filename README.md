@@ -7,7 +7,7 @@ Motivated to tackle such challenges and pave the way for positive impact, we hav
 
 ## AI Illuminated: Generative AI Podcast on the Latest Research Developments <br>
 Podcast: [Click here](https://open.spotify.com/show/5MWM1LvsSGHqagmtp9bdGO?si=4f0725a8de244bd1&nd=1&dlsi=dd8dffcab94b4cda)<br>
-<img src="https://raw.githubusercontent.com/AlexSWong/GenAI4Good/main/nasnerf-li.JPG" alt="NAS-NeRF" width="70%" height="70%">
+<img src="https://raw.githubusercontent.com/AlexSWong/GenAI4Good/main/ai_illum.PNG" alt="NAS-NeRF" width="70%" height="70%">
 <br><br>
 
 ## NAS-NeRF: Generative Neural Architecture Search for Neural Radiance Field <br>
